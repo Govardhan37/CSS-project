@@ -1,0 +1,192 @@
+#block{
+    display:block;
+    height:auto ;
+    background-color: rgba(71, 196, 201, 0.6);
+    
+    
+}
+#text{
+    height: auto;
+    border-radius:3.5px;
+    background-color: rgb(71, 135, 192);
+    outline: none;
+    border-color:rgb(71, 135, 192) ;
+    padding: 3px;
+    
+}
+#text:focus{
+    background-color: white;
+}
+h1{
+    display: inline;
+    align-self:center;
+    font-style: italic;
+    font-size: 1.5em;
+    padding-inline-start: 320px;
+    color: white;
+}
+#Home{
+    border: rgb(105, 161, 207);
+    background-color: rgb(71, 135, 192);
+    padding:7px;
+    margin-left: 10px;
+    color: white;
+}
+#bars{
+    border: rgb(105, 161, 207);
+    background-color: rgb(71, 135, 192);
+    padding:7px;
+    margin: 5px;
+    color: white;
+}
+#plus{
+    display: inline;
+    border: rgb(105, 161, 207);
+    background-color: rgb(71, 135, 192);
+    margin:5px;
+    padding:7px;
+    color:white;
+    float:right;
+}
+#user{
+    display: inline;
+    border: rgb(105, 161, 207);
+    background-color: rgb(71, 135, 192);
+    padding:7px;
+    margin: 5px;
+    color: white;
+    float: right;
+}
+#Home:hover{
+    background-color:rgb(48, 60, 163);
+}
+#bars:hover{
+    background-color: rgb(48, 60, 163);
+}
+#plus:hover{
+    background-color: rgb(48, 60, 163);
+}
+#user:hover{
+    background-color: rgb(48, 60, 163);
+}
+#block1{
+    display:block;
+    height:30px ;
+    margin-top: 4px;
+    background-color: rgba(214, 224, 231,0.45)
+}
+#showmore{
+    color: whitesmoke;
+    background-position: center;
+    float:right;
+    border:1px transparent 
+}
+#showmore:hover{
+    background-color:rgba(185, 206, 209, 0.2);
+}
+#block2{
+    display:inline-block;
+    height:auto ;
+    border: 1px transparent;
+    background-color:rgba(255,248,220,0.7);
+    margin-top: 20px;
+    padding: 10px;
+    margin-left: 20px;
+    border-radius: 3px;
+}
+#html{
+
+    padding: 3px;
+    border-radius:3.5px;
+    outline: none;
+    border-color: transparent;
+    margin: 7px;
+}
+#css{
+    padding: 3px;
+    border-radius:3.5px;
+    outline: none;
+    border-color: transparent;
+    margin: 7px;
+}
+#js{
+    padding: 3px;
+    border-radius:3.5px;
+    outline: none;
+    border-color: transparent;
+    margin: 7px;
+}
+#block3{
+    display:inline-block;
+    height:auto ;
+    border: 1px transparent;
+    background-color:rgba(255,248,220,0.7);
+    margin-left:15px;
+    margin-top: 49px;
+    padding: 10px;
+    margin-top: 50px;
+    border-radius: 3px;
+    width: 230px;
+}
+#resume{
+
+    padding: 3px;
+    border-radius:3.5px;
+    outline: none;
+    border-color: transparent;
+    margin: 7px;
+    width:180px
+}
+#area{
+    resize: none;
+    padding: 3px;
+    border-radius:3.5px;
+    outline: none;
+    border-color: transparent;
+    margin: 7px;
+    width: 180px;
+}
+#card{
+    padding: 5px;
+    border-radius: 2px;
+    border: 1px transparent;
+    background-color: olive;
+    color: white;
+    margin-left: 6px;
+}
+#card:hover{
+    background-color: limegreen;
+}
+#block4{
+    display:inline-block;
+    height:auto ;
+    border: 1px transparent;
+    background-color:rgba(255,248,220,0.7);
+    padding: 10px;
+    margin-left: 20px;
+    border-radius: 3px;
+}
+#twitter{
+
+    padding: 3px;
+    border-radius:3.5px;
+    outline: none;
+    border-color: transparent;
+    margin: 7px;
+    width:180px
+}
+#close{
+    padding: 3px;
+    border-radius: 2px;
+    border: 1px transparent;
+    background-color: transparent;
+    color: black;
+    margin-left: 6px;
+}
+#close:hover{
+    background-color: burlywood;
+}
+
+
+    
+
